@@ -1,0 +1,26 @@
+_repo: Legends-of-Lancashire_51177
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Landreth, Peter
+    gutenberg_agent_id: '46277'
+    url: http://www.gutenberg.org/2009/agents/46277
+description: ''
+gutenberg_issued: '2016-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51177'
+  lccn: 03006817
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- England -- Lancashire'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The Battle of Wigan Lane -- The witches of Furness -- The Devil's
+  Wall -- The prophetess and the rebel -- The Spectre Coach -- The cross and Lady
+  Mabel -- Lancaster Castle.
+title: Legends of Lancashire
+url: http://www.gutenberg.org/ebooks/51177
